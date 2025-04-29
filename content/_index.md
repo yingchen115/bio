@@ -43,6 +43,7 @@ sections:
     #design:
       #columns: '1'
   - block: markdown
+    id: awards
     content:
       title: 'Awards'
       #subtitle: ''
@@ -57,6 +58,7 @@ sections:
         • ACM SenSys 2019 NSF Student Travel Grant, Nov. 2019  
     design:
       columns: '1'
+      
   - block: collection
     id: papers
     content:
