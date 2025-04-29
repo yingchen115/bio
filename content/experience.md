@@ -46,7 +46,7 @@ sections:
     content:
       title: 'Mentoring'
       text: |-
-        <div style="font-size: 1rem; line-height: 1.6;">
+        <div style="font-size: 1rem; white-space: nowrap;">
           • <strong>Master Students:</strong><br>
           <div style="padding-left: 1.5em;">◦ Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present</div>
           <div style="padding-left: 1.5em;">◦ John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present</div>
