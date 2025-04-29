@@ -48,6 +48,7 @@ sections:
       title: 'Awards'
       #subtitle: ''
       text: |-
+        <div style="font-size: 1rem; white-space: nowrap;">
         • ACM/IEEE IPSN 2024 Best Artifact Runner-up Award, May 2024  
         • Google Networking Research Summit 2023 Invited Attendee, Nov. 2023  
         • EECS Rising Stars Workshop 2023 Invited Attendee, Nov. 2023  
@@ -55,7 +56,8 @@ sections:
         • Cyber-Physical Systems (CPS) Rising Stars Workshop 2023 Invited Attendee, May 2023  
         • IEEE INFOCOM 2023 Student Travel Grant, April 2023  
         • IEEE INFOCOM 2022 Student Travel Grant, May 2022  
-        • ACM SenSys 2019 NSF Student Travel Grant, Nov. 2019  
+        • ACM SenSys 2019 NSF Student Travel Grant, Nov. 2019
+        </div> 
     design:
       columns: '1'
       
