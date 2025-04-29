@@ -5,9 +5,9 @@ title: Ying Chen
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
 
-# Full name (for SEO)
-#first_name: Ying
-#last_name: Chen
+Full name (for SEO)
+first_name: Ying
+last_name: Chen
 
 # Status emoji
 #status:
@@ -74,7 +74,7 @@ awards:
 
 I will be joining the [College of Information Sciences and Technology](https://ist.psu.edu) at [Pennsylvania State University](https://www.psu.edu) as an assistant professor, starting July 2025. My research interests are in the intersection of extended reality systems and machine learning. Specifically, my research builds intelligent augmented and virtual reality systems that integrate environmental sensing and user behavior modeling for more immersive, interactive, and highly personalized experiences.
 
-I obtained my Ph.D. degree in the [Electrical and Computer Engineering (ECE) Department](https://ece.duke.edu/) at [Duke University](https://duke.edu/) in 2024, under the guidance of Prof. [Maria Gorlatova](https://maria.gorlatova.com/bio/) in the Intelligent Interactive Internet of Things Lab. Previously, I received my B.Eng. and M.S. degrees from Beijing University of Posts and Telecommunications in 2016 and 2019, respectively.
+I obtained my Ph.D. degree in the [Electrical and Computer Engineering (ECE) Department](https://ece.duke.edu/) at [Duke University](https://duke.edu/) in 2024, under the guidance of Prof. [Maria Gorlatova](https://maria.gorlatova.com/bio/) in the Intelligent Interactive Internet of Things Lab. I received my B.Eng. and M.S. degrees from Beijing University of Posts and Telecommunications in 2016 and 2019, respectively. Before joining Penn State, I was an assistant professor in the [Department of Information Technology](https://ccse.kennesaw.edu/it/) of the [College of Computing and Software Engineering](https://ccse.kennesaw.edu/) at [Kennesaw State University](https://www.kennesaw.edu).
 
 I am currently seeking motivated and creative **Ph.D. students** and **interns** who are interested in my research topics.
 
