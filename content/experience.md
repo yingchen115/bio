@@ -22,14 +22,4 @@ sections:
         </div>
     design:
       columns: '1'
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 ---
