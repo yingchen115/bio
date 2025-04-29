@@ -4,19 +4,18 @@ type: landing
 date: 2023-10-24
 
 design:
-  spacing: '5rem'
+  spacing: '2rem'
 
 sections:
   - block: markdown
     content:
-      title: 'Teaching Experience'
+      title: 'Teaching'
       text: |-
-        <div style="font-size: 1rem; white-space: nowrap;">
-          <div style="white-space: nowrap;">• Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025</div>
-          <div style="white-space: nowrap;">• Instructor, Advanced Application Development, Kennesaw State University, Fall 2024</div>
-          <div style="white-space: nowrap;">• Teaching Assistant, Advanced Topics in ECE/CS: Edge Computing, Duke University, Spring 2023</div>
-          <div style="white-space: nowrap;">• Teaching Assistant, Computer Network Architectures, Duke University, Fall 2021</div>
-        </div>
+        <div style="font-size: 1rem;">
+          • Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025<br>
+          • Instructor, Advanced Application Development, Kennesaw State University, Fall 2024<br>
+          • Teaching Assistant, Advanced Topics in ECE/CS: Edge Computing, Duke University, Spring 2023<br>
+          • Teaching Assistant, Computer Network Architectures, Duke University, Fall 2021
         </div>
     design:
       columns: '1'
@@ -25,8 +24,8 @@ sections:
     content:
       title: 'Invited Talks'
       text: |-
-        <div style="font-size: 1rem; white-space: nowrap;">
-          <div style="white-space: nowrap;">• “Resource-efficient IoT-supported mobile augmented reality,” Invited talk at Hitachi R&D, Oct. 2022</div>
+        <div style="font-size: 1rem;">
+          • “Resource-efficient IoT-supported mobile augmented reality,” Invited talk at Hitachi R&D, Oct. 2022
         </div>
     design:
       columns: '1'
@@ -35,18 +34,18 @@ sections:
     content:
       title: 'Internships'
       text: |-
-        <div style="font-size: 1rem; white-space: nowrap;">
-          <div style="white-space: nowrap;">• Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019</div>
-          <div style="white-space: nowrap;">• Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018</div>
+        <div style="font-size: 1rem;">
+          • Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019<br>
+          • Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018
         </div>
     design:
       columns: '1'
-  
+
   - block: markdown
     content:
       title: 'Mentoring'
       text: |-
-        <div style="font-size: 1rem; white-space: nowrap;">
+        <div style="font-size: 1rem; line-height: 1.6;">
           • <strong>Master Students:</strong><br>
           <div style="padding-left: 1.5em;">◦ Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present</div>
           <div style="padding-left: 1.5em;">◦ John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present</div>
@@ -72,5 +71,4 @@ sections:
         </div>
     design:
       columns: '1'
-
 ---
