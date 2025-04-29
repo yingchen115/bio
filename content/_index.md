@@ -43,19 +43,6 @@ sections:
     #design:
       #columns: '1'
 
-  - block: markdown
-    id: experience
-    content:
-      title: Teaching Experience
-      text: |-
-        <div style="font-size: 1rem; white-space: nowrap;">
-          <div style="white-space: nowrap;">• Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025</div>
-          <div style="white-space: nowrap;">• Instructor, Advanced Application Development, Kennesaw State University, Fall 2024</div>
-          <div style="white-space: nowrap;">• Teaching Assistant, Advanced Topics in ECE/CS: Edge Computing, Duke University, Spring 2023</div>
-          <div style="white-space: nowrap;">• Teaching Assistant, Computer Network Architectures, Duke University, Fall 2021</div>
-        </div>
-    design:
-      columns: '1'    
   - block: collection
     id: papers
     content:
