@@ -36,8 +36,6 @@ header:
     show_theme_chooser: false # Disable theme chooser in the navbar
     logo:
       text: ""
-    style:
-      background_color: "#0F52BA" # Set navbar background color to blue
 
 # Site footer
 #footer:
