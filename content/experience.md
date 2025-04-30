@@ -42,10 +42,3 @@ sections:
       columns: '1'
 
 ---
-<style>
-  nav a,
-  .menu a,
-  .site-nav a {
-    color: #0F52BA !important;
-  }
-</style>
