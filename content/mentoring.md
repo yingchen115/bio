@@ -12,6 +12,9 @@ sections:
     content:
       title: 'Master Students'
       text: |-
+        <style>
+          a { color: #0F52BA !important; }
+        </style>
         <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto; line-height: 1.6;">
           • Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present<br>
           • John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present<br>
@@ -52,8 +55,6 @@ sections:
     design:
       columns: '1'
 ---
-<style>
-  a { color: #0F52BA !important; }
-</style>
+
 
 

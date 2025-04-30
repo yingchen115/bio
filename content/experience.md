@@ -14,6 +14,9 @@ sections:
     content:
       title: 'Teaching'
       text: |-
+        <style>
+          a { color: #0F52BA !important; }
+        </style>
         <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
           • Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025<br>
           • Instructor, Advanced Application Development, Kennesaw State University, Fall 2024<br>
