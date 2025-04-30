@@ -12,9 +12,9 @@ sections:
     content:
       title: 'Book Chapters'
       text: |-
-      <style>
-        a { color: #0F52BA !important; }
-      </style>
+        <style>
+          a { color: #0F52BA !important; }
+        </style>
         <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
           • T. Scargill, S. Eom, <strong>Y. Chen</strong>, M. Gorlatova, <i>Ambient intelligence for next-generation augmented reality</i>, to appear in <i>Springer Handbook of the Metaverse</i>, Springer (invited book chapter).
         </div>
