@@ -73,7 +73,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 <style>
-  a { color: #001E44 !important; }
+  a { color: #6495ED !important; }
 </style>
 
 I will be joining the [College of Information Sciences and Technology](https://ist.psu.edu) at [Pennsylvania State University](https://www.psu.edu) as an assistant professor, starting July 2025. My research interests are in the intersection of extended reality systems and machine learning. Specifically, my research builds intelligent augmented and virtual reality systems that integrate environmental sensing and user behavior modeling for more immersive, interactive, and highly personalized experiences.
