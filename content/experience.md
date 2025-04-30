@@ -12,10 +12,12 @@ sections:
       title: 'Teaching'
       text: |-
         <div style="font-size: 1rem; text-align: left;">
-          • Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025<br>
-          • Instructor, Advanced Application Development, Kennesaw State University, Fall 2024<br>
-          • Teaching Assistant, Advanced Topics in ECE/CS: Edge Computing, Duke University, Spring 2023<br>
-          • Teaching Assistant, Computer Network Architectures, Duke University, Fall 2021
+          <ul>
+            <li>Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025</li>
+            <li>Instructor, Advanced Application Development, Kennesaw State University, Fall 2024</li>
+            <li>Teaching Assistant, Advanced Topics in ECE/CS: Edge Computing, Duke University, Spring 2023</li>
+            <li>Teaching Assistant, Computer Network Architectures, Duke University, Fall 2021</li>
+          </ul>
         </div>
     design:
       columns: '1'
@@ -25,7 +27,9 @@ sections:
       title: 'Invited Talks'
       text: |-
         <div style="font-size: 1rem; text-align: left;">
-          • “Resource-efficient IoT-supported mobile augmented reality,” Invited talk at Hitachi R&D, Oct. 2022
+          <ul>
+            <li>“Resource-efficient IoT-supported mobile augmented reality,” Invited talk at Hitachi R&D, Oct. 2022</li>
+          </ul>
         </div>
     design:
       columns: '1'
@@ -35,8 +39,10 @@ sections:
       title: 'Internships'
       text: |-
         <div style="font-size: 1rem; text-align: left;">
-          • Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019
-          • Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018
+          <ul>
+            <li>Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019</li>
+            <li>Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018</li>
+          </ul>
         </div>
     design:
       columns: '1'
@@ -45,29 +51,35 @@ sections:
     content:
       title: 'Mentoring'
       text: |-
-        <div style="font-size: 1rem; line-height: 1.6; text-align: left;">
-          • <strong>Master Students:</strong><br>
-          <div style="padding-left: 1.5em;">◦ Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present</div>
-          <div style="padding-left: 1.5em;">◦ John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present</div>
-          <div style="padding-left: 1.5em;">◦ Owen Gibson, ECE, Duke University. Fall 2022</div><br>
+        <div style="font-size: 1rem; text-align: left;">
+          <strong>Master Students:</strong>
+          <ul>
+            <li>Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present</li>
+            <li>John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present</li>
+            <li>Owen Gibson, ECE, Duke University. Fall 2022</li>
+          </ul>
 
-          • <strong>Undergraduate Students:</strong><br>
-          <div style="padding-left: 1.5em;">◦ Jason Flores, CCSE, Kennesaw State University. Spring 2025 – present</div>
-          <div style="padding-left: 1.5em;">◦ Muchang Bahng, Mathematics, Duke University. Spring 2023 – Spring 2024</div>
-          <div style="padding-left: 1.5em;">◦ Alice Hu, ECE, Duke University. Fall 2023 – Spring 2024</div>
-          <div style="padding-left: 1.5em;">◦ Ashish Murthy, EE, Indian Institute of Technology. Visiting REU student at Duke University. Summer 2023</div>
-          <div style="padding-left: 1.5em;">◦ Sasamon Omoma, CS, Duke University. Fall 2021 – Spring 2022</div>
-          <div style="padding-left: 1.5em;">◦ Hojung (Ashley) Kwon, CS, Duke University. B.S. Honors and Graduation with Distinction projects. Summer 2020 – Fall 2021</div>
-          <div style="padding-left: 1.5em;">◦ Aining Liu, CS, Duke University. Fall 2021</div>
-          <div style="padding-left: 1.5em;">◦ Rohit Raguram, CS, Duke University. Fall 2021</div>
-          <div style="padding-left: 1.5em;">◦ Maria Christenbury, ME, Clemson University. Visiting REU student at Duke University. Summer 2021</div>
-          <div style="padding-left: 1.5em;">◦ Brianna Butler, CS, Duke University. Fall 2020 – Spring 2021</div>
-          <div style="padding-left: 1.5em;">◦ Achintya Kumar, CS, Duke University. Fall 2020</div>
-          <div style="padding-left: 1.5em;">◦ Daisy Ferleger, CS, Duke University. Spring 2020</div>
-          <div style="padding-left: 1.5em;">◦ Grace Patel, ME, Duke University. Spring 2020</div><br>
+          <strong>Undergraduate Students:</strong>
+          <ul>
+            <li>Jason Flores, CCSE, Kennesaw State University. Spring 2025 – present</li>
+            <li>Muchang Bahng, Mathematics, Duke University. Spring 2023 – Spring 2024</li>
+            <li>Alice Hu, ECE, Duke University. Fall 2023 – Spring 2024</li>
+            <li>Ashish Murthy, EE, Indian Institute of Technology. Visiting REU student at Duke University. Summer 2023</li>
+            <li>Sasamon Omoma, CS, Duke University. Fall 2021 – Spring 2022</li>
+            <li>Hojung (Ashley) Kwon, CS, Duke University. B.S. Honors and Graduation with Distinction projects. Summer 2020 – Fall 2021</li>
+            <li>Aining Liu, CS, Duke University. Fall 2021</li>
+            <li>Rohit Raguram, CS, Duke University. Fall 2021</li>
+            <li>Maria Christenbury, ME, Clemson University. Visiting REU student at Duke University. Summer 2021</li>
+            <li>Brianna Butler, CS, Duke University. Fall 2020 – Spring 2021</li>
+            <li>Achintya Kumar, CS, Duke University. Fall 2020</li>
+            <li>Daisy Ferleger, CS, Duke University. Spring 2020</li>
+            <li>Grace Patel, ME, Duke University. Spring 2020</li>
+          </ul>
 
-          • <strong>High School Students:</strong><br>
-          <div style="padding-left: 1.5em;">◦ Jonathan Zeng, North Carolina School of Science and Mathematics. Summer 2023 – Spring 2024</div>
+          <strong>High School Students:</strong>
+          <ul>
+            <li>Jonathan Zeng, North Carolina School of Science and Mathematics. Summer 2023 – Spring 2024</li>
+          </ul>
         </div>
     design:
       columns: '1'
