@@ -43,15 +43,5 @@ sections:
 
 ---
 <style>
-  #navbar {
-    background-color: #0F52BA !important;
-  }
-
-  #navbar a {
-    color: white !important;
-  }
-
-  #navbar a:hover {
-    color: #FFD700 !important;
-  }
+  a { color: #0F52BA !important; }
 </style>
