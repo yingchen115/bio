@@ -1,1 +1,5 @@
 a { color: #0F52BA !important; }
+
+.navbar {
+  background-color: #0F52BA !important; /* Apply the desired blue color */
+}
