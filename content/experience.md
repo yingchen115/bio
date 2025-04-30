@@ -35,7 +35,7 @@ sections:
       title: 'Internships'
       text: |-
         <div style="font-size: 1rem; text-align: left;">
-          • Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019<br>
+          • Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019
           • Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018
         </div>
     design:
