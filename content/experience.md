@@ -6,10 +6,6 @@ date: 2023-10-24
 design:
   spacing: '2rem'
 
-<style>
-  a { color: #0F52BA !important; }
-</style>
-
 sections:
   - block: markdown
     content:
@@ -46,4 +42,6 @@ sections:
       columns: '1'
 
 ---
-
+<style>
+  a { color: #0F52BA !important; }
+</style>
