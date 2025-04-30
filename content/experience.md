@@ -1,3 +1,6 @@
+<style>
+  a { color: #0F52BA !important; }
+</style>
 ---
 title: "Experience"
 type: landing
@@ -42,6 +45,3 @@ sections:
       columns: '1'
 
 ---
-<style>
-  a { color: #0F52BA !important; }
-</style>
