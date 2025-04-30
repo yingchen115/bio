@@ -45,6 +45,3 @@ sections:
       columns: '1'
 
 ---
-<style>
-  a { color: #0F52BA !important; }
-</style>
