@@ -11,8 +11,8 @@ sections:
     content:
       title: 'Teaching'
       text: |-
-        <div style="font-size: 1rem; text-align: left;">
-          <ul>
+        <div style="font-size: 1rem; text-align: left; padding-left: 1.5em;">
+          <ul style="list-style-type: disc; list-style-position: inside; margin: 0;">
             <li>Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025</li>
             <li>Instructor, Advanced Application Development, Kennesaw State University, Fall 2024</li>
             <li>Teaching Assistant, Advanced Topics in ECE/CS: Edge Computing, Duke University, Spring 2023</li>
@@ -26,8 +26,8 @@ sections:
     content:
       title: 'Invited Talks'
       text: |-
-        <div style="font-size: 1rem; text-align: left;">
-          <ul>
+        <div style="font-size: 1rem; text-align: left; padding-left: 1.5em;">
+          <ul style="list-style-type: disc; list-style-position: inside; margin: 0;">
             <li>“Resource-efficient IoT-supported mobile augmented reality,” Invited talk at Hitachi R&D, Oct. 2022</li>
           </ul>
         </div>
@@ -38,8 +38,8 @@ sections:
     content:
       title: 'Internships'
       text: |-
-        <div style="font-size: 1rem; text-align: left;">
-          <ul>
+        <div style="font-size: 1rem; text-align: left; padding-left: 1.5em;">
+          <ul style="list-style-type: disc; list-style-position: inside; margin: 0;">
             <li>Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019</li>
             <li>Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018</li>
           </ul>
@@ -51,16 +51,16 @@ sections:
     content:
       title: 'Mentoring'
       text: |-
-        <div style="font-size: 1rem; text-align: left;">
+        <div style="font-size: 1rem; text-align: left; padding-left: 1.5em;">
           <strong>Master Students:</strong>
-          <ul>
+          <ul style="list-style-type: disc; list-style-position: inside; margin: 0;">
             <li>Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present</li>
             <li>John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present</li>
             <li>Owen Gibson, ECE, Duke University. Fall 2022</li>
           </ul>
 
           <strong>Undergraduate Students:</strong>
-          <ul>
+          <ul style="list-style-type: disc; list-style-position: inside; margin: 0;">
             <li>Jason Flores, CCSE, Kennesaw State University. Spring 2025 – present</li>
             <li>Muchang Bahng, Mathematics, Duke University. Spring 2023 – Spring 2024</li>
             <li>Alice Hu, ECE, Duke University. Fall 2023 – Spring 2024</li>
@@ -77,7 +77,7 @@ sections:
           </ul>
 
           <strong>High School Students:</strong>
-          <ul>
+          <ul style="list-style-type: disc; list-style-position: inside; margin: 0;">
             <li>Jonathan Zeng, North Carolina School of Science and Mathematics. Summer 2023 – Spring 2024</li>
           </ul>
         </div>
