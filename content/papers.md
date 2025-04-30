@@ -73,7 +73,7 @@ sections:
       title: 'Poster and Demo Presentations'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
-          • S. Ding, J. P. Yalla, <strong>Y. Chen</strong>, "Demo abstract: RAG-driven 3D question answering in edge-assisted virtual reality," to appear in <i>Proc. IEEE INFOCOM</i>, May 2025. Video of the demo: https://www.youtube.com/watch?v=bDrN5AWmKJA.<br>
+          • S. Ding, J. P. Yalla, <strong>Y. Chen</strong>, "Demo abstract: RAG-driven 3D question answering in edge-assisted virtual reality," to appear in <i>Proc. IEEE INFOCOM</i>, May 2025. [Video of the demo](https://www.youtube.com/watch?v=bDrN5AWmKJA).<br>
           • L. Zhang, M. Prather, D. Haynes, <strong>Y. Chen</strong>, Y. Li, "Saving the polar bears: A collaborative VR storytelling experience enhanced by multi-scale and multi-view WiM Designs," in <i>Proc. IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)</i>, Mar. 2025.<br>
           • T. Hu, T. Scargill, <strong>Y. Chen</strong>, G. Lan, M. Gorlatova, "DNN-based SLAM tracking error online estimation," in <i>Proc. ACM MobiCom</i>, Oct. 2023. [Video of the demo]<br>
           • L. Duan, <strong>Y. Chen</strong>, M. Gorlatova, "Demo Abstract: BiGuide: A bi-level data acquisition guidance for object detection on mobile devices," in <i>Proc. ACM/IEEE IPSN</i>, May 2023. [Video of the demo]<br>
