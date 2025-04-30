@@ -1,7 +1,7 @@
 ---
 
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Ying Chen"
 date: 2022-10-24
 type: landing
 
