@@ -11,7 +11,7 @@ sections:
     content:
       title: 'Teaching'
       text: |-
-        <div style="font-size: 1rem;">
+        <div style="font-size: 1rem; text-align: left;">
           • Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025<br>
           • Instructor, Advanced Application Development, Kennesaw State University, Fall 2024<br>
           • Teaching Assistant, Advanced Topics in ECE/CS: Edge Computing, Duke University, Spring 2023<br>
@@ -24,7 +24,7 @@ sections:
     content:
       title: 'Invited Talks'
       text: |-
-        <div style="font-size: 1rem;">
+        <div style="font-size: 1rem; text-align: left;">
           • “Resource-efficient IoT-supported mobile augmented reality,” Invited talk at Hitachi R&D, Oct. 2022
         </div>
     design:
@@ -34,7 +34,7 @@ sections:
     content:
       title: 'Internships'
       text: |-
-        <div style="font-size: 1rem;">
+        <div style="font-size: 1rem; text-align: left;">
           • Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019<br>
           • Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018
         </div>
@@ -45,7 +45,7 @@ sections:
     content:
       title: 'Mentoring'
       text: |-
-        <div style="font-size: 1rem; line-height: 1.6;">
+        <div style="font-size: 1rem; line-height: 1.6; text-align: left;">
           • <strong>Master Students:</strong><br>
           <div style="padding-left: 1.5em;">◦ Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present</div>
           <div style="padding-left: 1.5em;">◦ John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present</div>
