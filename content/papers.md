@@ -15,7 +15,7 @@ sections:
         <style>
           a { color: #0F52BA !important; }
         </style>
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
           • T. Scargill, S. Eom, <strong>Y. Chen</strong>, M. Gorlatova, <i>Ambient intelligence for next-generation augmented reality</i>, to appear in <i>Springer Handbook of the Metaverse</i>, Springer (invited book chapter).
         </div>
     design:
@@ -25,7 +25,7 @@ sections:
     content:
       title: 'Journal Articles'
       text: |-
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
           • <strong>Y. Chen</strong>, S. Omoma, H. Kwon, H. Inaltekin, M. Gorlatova, "Quantifying and exploiting VR frame correlations: An application of a statistical model for viewport pose," <i>IEEE Transactions on Mobile Computing</i>, vol. 23, no. 12, pp. 11466–11482, Dec. 2024.<br>
           • Y. Han, <strong>Y. Chen</strong>, R. Wang, J. Wu, M. Gorlatova, "Intelli-AR preloading: A learning approach to proactive hologram transmissions in mobile AR," <i>IEEE Internet of Things Journal</i>, vol. 9, no. 18, pp. 17714–17727, Sept. 2022.<br>
           • <strong>Y. Chen</strong>, H. Zhang, "Exploiting transmission and caching diversity in cache-enabled user-centric network: analysis and optimization," <i>IEEE Access</i>, vol. 7, pp. 65934–65943, May 2019.<br>
@@ -42,7 +42,7 @@ sections:
     content:
       title: 'Conference Proceedings'
       text: |-
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
           • T. Hu, T. Scargill, F. Yan, <strong>Y. Chen</strong>, G. Lan, M. Gorlatova, "SEESys: Online Pose Error Estimation System for Visual SLAM," in <i>Proc. ACM SenSys</i>, 2024. (18.5% acceptance rate)<br>
           • L. Duan, <strong>Y. Chen</strong>, Z. Qu, M. McGrath, E. Ehmke, M. Gorlatova, "BiGuide: A bi-level data acquisition guidance for object detection on mobile devices," in <i>Proc. ACM/IEEE IPSN</i>, May 2024. (21.5% acceptance rate)<br>
           • L. Duan, T. Scargill, <strong>Y. Chen</strong>, M. Gorlatova, "3D object detection with VI-SLAM point clouds: the impact of object and environment characteristics on model performance," in <i>Proc. IEEE ICRA</i>, May 2024.<br>
@@ -61,7 +61,7 @@ sections:
     content:
       title: 'Workshop Proceedings'
       text: |-
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
           • S. Ding, <strong>Y. Chen</strong>, "RAG-VR: Leveraging retrieval-augmented generation for 3D question answering in VR environments," in <i>Proc. IEEE Workshop on Generative Artificial Intelligence meets Extended Reality (GenAI-XR)</i>, Mar. 2025 (co-located with IEEE VR’25).<br>
           • T. Scargill, <strong>Y. Chen</strong>, S. Eom, J. Dunn, M. Gorlatova, "Environmental, user, and social context-aware augmented reality for supporting personal development and change," in <i>Proc. IEEE Workshop for Building the Foundations of the Metaverse</i>, Mar. 2022 (co-located with IEEE VR’22).
         </div>
@@ -72,7 +72,7 @@ sections:
     content:
       title: 'Poster and Demo Presentations'
       text: |-
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
           • S. Ding, J. P. Yalla, <strong>Y. Chen</strong>, "Demo abstract: RAG-driven 3D question answering in edge-assisted virtual reality," to appear in <i>Proc. IEEE INFOCOM</i>, May 2025. <a href="https://www.youtube.com/watch?v=bDrN5AWmKJA" target="_blank">Video of the demo</a><br>
           • L. Zhang, M. Prather, D. Haynes, <strong>Y. Chen</strong>, Y. Li, "Saving the polar bears: A collaborative VR storytelling experience enhanced by multi-scale and multi-view WiM Designs," in <i>Proc. IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)</i>, Mar. 2025.<a href="https://ieeevr.org/2025/program/3dui-contest/#1044" target="_blank">Video of the demo</a><br>
           • T. Hu, T. Scargill, <strong>Y. Chen</strong>, G. Lan, M. Gorlatova, "DNN-based SLAM tracking error online estimation," in <i>Proc. ACM MobiCom</i>, Oct. 2023. <a href="https://sites.duke.edu/tianyihu/publications/demo/mobicom23/" target="_blank">Video of the demo</a><br>

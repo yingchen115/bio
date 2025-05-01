@@ -15,7 +15,7 @@ sections:
         <style>
           a { color: #0F52BA !important; }
         </style>
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto; line-height: 1.6;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto; line-height: 1.6;">
           • Zhuoheng Li, IST, Penn State. Starting Fall 2025 <br>
         </div>
     design:
@@ -28,7 +28,7 @@ sections:
         <style>
           a { color: #0F52BA !important; }
         </style>
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto; line-height: 1.6;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto; line-height: 1.6;">
           • Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present<br>
           • John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present<br>
           • Owen Gibson, ECE, Duke University. Fall 2022
@@ -40,7 +40,7 @@ sections:
     content:
       title: 'Undergraduate Students'
       text: |-
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto; line-height: 1.6;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto; line-height: 1.6;">
           • Jason Flores, CCSE, Kennesaw State University. Spring 2025 – present<br>
           • Muchang Bahng, Mathematics, Duke University. Spring 2023 – Spring 2024<br>
           • Alice Hu, ECE, Duke University. Fall 2023 – Spring 2024<br>
@@ -62,7 +62,7 @@ sections:
     content:
       title: 'High School Students'
       text: |-
-        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto; line-height: 1.6;">
+        <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto; line-height: 1.6;">
           • Jonathan Zeng, North Carolina School of Science and Mathematics. Summer 2023 – Spring 2024
         </div>
     design:
