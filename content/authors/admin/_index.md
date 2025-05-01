@@ -33,7 +33,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:yingchen@psu.edu'
-    label: E-mail Me
+    label: E-mail Me: yingchen@psu.edu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ying-chen-07681a1b1/
   - icon: academicons/google-scholar
