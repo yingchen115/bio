@@ -26,7 +26,6 @@ role: Assistant Professor
 organizations:
   - name: The Pennsylvania State University 
   - name: E-mail: yingchen [at] psu [dot] edu
-  - url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
