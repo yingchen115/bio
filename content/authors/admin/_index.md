@@ -25,9 +25,8 @@ role: Assistant Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: The Pennsylvania State University 
-  - name: [E-mail: yingchen [at] psu [dot] edu]('mailto:yingchen@psu.edu')
-    
-    #url: https://openai.com/
+  - name: E-mail: yingchen [at] psu [dot] edu
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
