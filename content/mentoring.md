@@ -10,6 +10,19 @@ sections:
 
   - block: markdown
     content:
+      title: 'PhD Students'
+      text: |-
+        <style>
+          a { color: #0F52BA !important; }
+        </style>
+        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto; line-height: 1.6;">
+          • Zhuoheng Li, IST, Penn State. Starting Fall 2025 <br>
+        </div>
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
       title: 'Master Students'
       text: |-
         <style>
