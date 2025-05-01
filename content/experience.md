@@ -13,7 +13,7 @@ sections:
 
   - block: markdown
     content:
-      title: 'Professional Activities'
+      title: 'Professional Experience'
       text: |-
         <style>
           a { color: #0F52BA !important; }
