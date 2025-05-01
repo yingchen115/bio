@@ -38,9 +38,10 @@ sections:
 
   - block: markdown
     content:
-      title: 'Internships'
+      title: 'Professional Activities'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+          • Assistant Professor, Department of Information Technology, Kennesaw State University, Aug. 2024 - May 2025
           • Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019<br>
           • Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018
         </div>
