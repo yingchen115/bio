@@ -19,7 +19,7 @@ sections:
           a { color: #0F52BA !important; }
         </style>
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
-          • Assistant Professor, Department of Information Technology, Kennesaw State University, Aug. 2024 - May 2025<br>
+          • Assistant Professor, [Department of Information Technology](https://ccse.kennesaw.edu/it/), [College of Computing and Software Engineering](https://ccse.kennesaw.edu/), [Kennesaw State University](https://www.kennesaw.edu), Aug. 2024 - May 2025<br>
           • Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019<br>
           • Engineering Intern, Qualcomm Inc., Beijing, July 2018 – Sept. 2018
         </div>
