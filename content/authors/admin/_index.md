@@ -32,12 +32,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:yingchen AT psu.com'
+    url: 'mailto:yingchen@psu.com'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ying-chen-07681a1b1/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=aoMpAKoAAAAJ&hl=en&oi=sra
 
 
   
