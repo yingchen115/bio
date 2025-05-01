@@ -15,6 +15,9 @@ sections:
     content:
       title: 'Professional Activities'
       text: |-
+        <style>
+          a { color: #0F52BA !important; }
+        </style>
         <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
           • Assistant Professor, Department of Information Technology, Kennesaw State University, Aug. 2024 - May 2025
           • Research Intern, NTT DOCOMO Beijing Labs, Mar. 2019 – Apr. 2019<br>
@@ -22,14 +25,11 @@ sections:
         </div>
     design:
       columns: '1'
-      
+
   - block: markdown
     content:
       title: 'Teaching'
       text: |-
-        <style>
-          a { color: #0F52BA !important; }
-        </style>
         <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
           • Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025<br>
           • Instructor, Advanced Application Development, Kennesaw State University, Fall 2024<br>
