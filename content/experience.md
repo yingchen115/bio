@@ -44,7 +44,7 @@ sections:
       title: 'Invited Lectures'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
-          • “Edge-assisted simultaneous localization and mapping (SLAM),” University of Michigan–Ann Arbor EECS 498/598: Special topics on “AI-Enabled Mixed Reality”, Feb. 2025
+          • “Edge-assisted simultaneous localization and mapping (SLAM),” University of Michigan–Ann Arbor EECS 498/598: Special topics on “AI-Enabled Mixed Reality,” Feb. 2025
         </div>
     design:
       columns: '1'
@@ -59,4 +59,36 @@ sections:
     design:
       columns: '1'
 
+
+  - block: markdown
+    content:
+      title: 'Technical Program Committee'
+      text: |-
+        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+          • 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (HumanSys’25), co-located with CPS-IoT Week 2025<br>
+          • 2nd International Workshop on Security and Privacy of Sensing Systems (Sensors S&P’25), co-located with CPS-IoT Week 2025<br>
+          • IEEE ICCCN 2024 Poster Session
+        </div>
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: 'Conference Review Service'
+      text: |-
+        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+          • ACM IMWUT 2023, 2024, IEEE INFOCOM 2020, 2021, 2024, ACM MobiCom 2023, ACM SIGCOMM 2023, ACM HotMobile 2023, ACM/IEEE IPSN 2021, 2022, 2024, ACM MobiHoc 2021, 2022, 2023, ACM SenSys 2020, 2021, 2022, 2023, IEEE ICNP 2020, 2021, IEEE ICDCS 2020, 2022
+        </div>
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: 'Journal Review Service'
+      text: |-
+        <div style="font-size: 1rem; text-align: left; width: 1000px; margin: 0 auto;">
+          • IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Sensor Networks, IEEE Transactions on Wireless Communications, IEEE Network Magazine, IEEE Wireless Communications Letters
+        </div>
+    design:
+      columns: '1'
 ---
