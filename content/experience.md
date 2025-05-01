@@ -49,8 +49,6 @@ sections:
     design:
       columns: '1'
 
-◦ “Edge-assisted simultaneous localization and mapping (SLAM),” University of Michigan–Ann Arbor
-EECS 498/598: Special topics on “AI-Enabled Mixed Reality” Feb. 2025
   - block: markdown
     content:
       title: 'Invited Talks'
