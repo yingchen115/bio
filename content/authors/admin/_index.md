@@ -37,8 +37,10 @@ profiles:
     url: https://www.linkedin.com/in/ying-chen-07681a1b1/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=aoMpAKoAAAAJ&hl=en&oi=sra
+  - icon: ''
+    url: ''
+    label: '<br><span style="font-weight: bold;">E-mail:</span> yingchen@psu.edu'
 
-Email: yingchen@psu.edu
 
 # Awards.
 #   Add/remove as many awards below as you like.
