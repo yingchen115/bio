@@ -33,14 +33,13 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:yingchen@psu.edu'
-    label: E-mail Me: yingchen@psu.edu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ying-chen-07681a1b1/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=aoMpAKoAAAAJ&hl=en&oi=sra
 
+Email: yingchen@psu.edu
 
-  
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
