@@ -47,9 +47,9 @@ sections:
           • L. Duan, <strong>Y. Chen</strong>, Z. Qu, M. McGrath, E. Ehmke, M. Gorlatova, "BiGuide: A bi-level data acquisition guidance for object detection on mobile devices," in <i>Proc. ACM/IEEE IPSN</i>, May 2024. (21.5% acceptance rate)<br>
           • L. Duan, T. Scargill, <strong>Y. Chen</strong>, M. Gorlatova, "3D object detection with VI-SLAM point clouds: the impact of object and environment characteristics on model performance," in <i>Proc. IEEE ICRA</i>, May 2024.<br>
           • T. Scargill, <strong>Y. Chen</strong>, T. Hu, M. Gorlatova, "SiTAR: Situated trajectory analysis for in-the-wild pose error estimation," in <i>Proc. IEEE ISMAR</i>, Oct. 2023.<br>
-          • <strong>Y. Chen</strong>, H. Inaltekin, M. Gorlatova, "AdaptSLAM: Edge-assisted adaptive SLAM with resource constraints via uncertainty minimization," in <i>Proc. IEEE INFOCOM</i>, May 2023. (19.2%)<br>
-          • T. Scargill, <strong>Y. Chen</strong>, N. Marzen, M. Gorlatova, "Integrated design of augmented reality spaces using virtual environments," in <i>Proc. IEEE ISMAR</i>, Oct. 2022. (21%)<br>
-          • <strong>Y. Chen</strong>, H. Kwon, H. Inaltekin, M. Gorlatova, "VR viewport pose model for quantifying and exploiting frame correlations," in <i>Proc. IEEE INFOCOM</i>, May 2022. (19.9%)<br>
+          • <strong>Y. Chen</strong>, H. Inaltekin, M. Gorlatova, "AdaptSLAM: Edge-assisted adaptive SLAM with resource constraints via uncertainty minimization," in <i>Proc. IEEE INFOCOM</i>, May 2023. (19.2% acceptance rate)<br>
+          • T. Scargill, <strong>Y. Chen</strong>, N. Marzen, M. Gorlatova, "Integrated design of augmented reality spaces using virtual environments," in <i>Proc. IEEE ISMAR</i>, Oct. 2022. (21% acceptance rate)<br>
+          • <strong>Y. Chen</strong>, H. Kwon, H. Inaltekin, M. Gorlatova, "VR viewport pose model for quantifying and exploiting frame correlations," in <i>Proc. IEEE INFOCOM</i>, May 2022. (19.9% acceptance rate)<br>
           • <strong>Y. Chen</strong>, H. Zhang, "Outage probability and average rate analysis of user-centric ultra-dense networks," in <i>Proc. IEEE ICC</i>, May 2019.<br>
           • <strong>Y. Chen</strong>, H. Zhang, "Matérn-like model based analysis for power control in user-centric 5G networks," in <i>Proc. IEEE PIMRC</i>, Oct. 2017.<br>
           • <strong>Y. Chen</strong>, Z. Yang, H. Zhang, "Opportunistic-based dynamic interference coordination in dense small cells deployment," in <i>Proc. IEEE PIMRC</i>, Oct. 2017.
