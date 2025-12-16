@@ -77,7 +77,7 @@ awards:
   a { color: #0F52BA !important; }
 </style>
 
-I will be joining the [College of Information Sciences and Technology](https://ist.psu.edu) at [Pennsylvania State University](https://www.psu.edu) as an assistant professor, starting in July 2025. My research interests are in the intersection of extended reality systems and machine learning. Specifically, my research builds intelligent augmented and virtual reality systems that integrate environmental sensing and user behavior modeling for more immersive, interactive, and highly personalized experiences.
+I'm an Assistant Professor in the [College of Information Sciences and Technology](https://ist.psu.edu) at [Pennsylvania State University](https://www.psu.edu). My research interests are in the intersection of extended reality systems and machine learning. Specifically, my research builds intelligent augmented and virtual reality systems that integrate environmental sensing and user behavior modeling for more immersive, interactive, and highly personalized experiences.
 
 I obtained my Ph.D. degree in the [Electrical and Computer Engineering Department](https://ece.duke.edu/) at [Duke University](https://duke.edu/) in May 2024, under the guidance of Prof. [Maria Gorlatova](https://maria.gorlatova.com/bio/) in the Intelligent Interactive Internet of Things Lab. I received my B.Eng. and M.S. degrees from Beijing University of Posts and Telecommunications in 2016 and 2019, respectively. 
 
