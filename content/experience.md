@@ -31,6 +31,8 @@ sections:
       title: 'Teaching'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
+          • Instructor, Human-Centered Design for Mobile Computing, Penn State, Spring 2026<br>
+          • Instructor, Introduction to Application Development, Penn State, Fall 2025<br>
           • Instructor, Practical Data Analytics, Kennesaw State University, Spring 2025<br>
           • Instructor, Advanced Application Development, Kennesaw State University, Fall 2024<br>
           • Teaching Assistant, Advanced Topics in ECE/CS: Edge Computing, Duke University, Spring 2023<br>
