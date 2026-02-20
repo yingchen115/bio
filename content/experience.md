@@ -67,8 +67,11 @@ sections:
       title: 'Technical Program Committee'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
-          • 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (HumanSys’25), co-located with CPS-IoT Week 2025<br>
-          • 2nd International Workshop on Security and Privacy of Sensing Systems (Sensors S&P’25), co-located with CPS-IoT Week 2025<br>
+          • 35th IEEE International Conference on Computer Communications and Networks (ICCCN ’25)
+          • 22nd ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT ’26)
+          • 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (HumanSys ’25), co-located with CPS-IoT Week 2025<br>
+          • 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (HumanSys ’25), co-located with CPS-IoT Week 2025<br>
+          • 2nd International Workshop on Security and Privacy of Sensing Systems (Sensors S&P ’25), co-located with CPS-IoT Week 2025<br>
           • IEEE ICCCN 2024 Poster Session
         </div>
     design:
