@@ -29,8 +29,9 @@ sections:
           a { color: #0F52BA !important; }
         </style>
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto; line-height: 1.6;">
-          • Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – present<br>
-          • John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – present<br>
+          • Yao Li, IST, Penn State. Fall 2025 - present <br>
+          • Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – Spring 2026 <br>
+          • John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – Fall 2025 <br>
           • Owen Gibson, ECE, Duke University. Fall 2022
         </div>
     design:
