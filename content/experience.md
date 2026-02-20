@@ -67,8 +67,8 @@ sections:
       title: 'Technical Program Committee'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
-          • 35th IEEE International Conference on Computer Communications and Networks (ICCCN ’25)
-          • 22nd ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT ’26)
+          • 35th IEEE International Conference on Computer Communications and Networks (ICCCN ’25)<br>
+          • 22nd ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT ’26)<br>
           • 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (HumanSys ’25), co-located with CPS-IoT Week 2025<br>
           • 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (HumanSys ’25), co-located with CPS-IoT Week 2025<br>
           • 2nd International Workshop on Security and Privacy of Sensing Systems (Sensors S&P ’25), co-located with CPS-IoT Week 2025<br>
@@ -82,7 +82,7 @@ sections:
       title: 'Conference Review Service'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
-          • USENIX ATC 2025, ACM IMWUT 2023, 2024, IEEE INFOCOM 2020, 2021, 2024, ACM MobiCom 2023, ACM SIGCOMM 2023, ACM HotMobile 2023, ACM/IEEE IPSN 2021, 2022, 2024, ACM MobiHoc 2021, 2022, 2023, ACM SenSys 2020, 2021, 2022, 2023, IEEE ICNP 2020, 2021, IEEE ICDCS 2020, 2022
+          • ACM VRST 2025, USENIX ATC 2025, ACM IMWUT 2023, 2024, 2025 IEEE INFOCOM 2020, 2021, 2024, ACM MobiCom 2023, ACM SIGCOMM 2023, ACM HotMobile 2023, ACM/IEEE IPSN 2021, 2022, 2024, ACM MobiHoc 2021, 2022, 2023, ACM SenSys 2020, 2021, 2022, 2023, IEEE ICNP 2020, 2021, IEEE ICDCS 2020, 2022
         </div>
     design:
       columns: '1'
@@ -92,7 +92,7 @@ sections:
       title: 'Journal Review Service'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
-          • IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Sensor Networks, IEEE Transactions on Wireless Communications, IEEE Network Magazine, IEEE Wireless Communications Letters
+          • IEEE Communications Standards Magazine, IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Sensor Networks, IEEE Transactions on Wireless Communications, IEEE Network Magazine, IEEE Wireless Communications Letters
         </div>
     design:
       columns: '1'
