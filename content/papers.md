@@ -43,11 +43,11 @@ sections:
       title: 'Conference Proceedings'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
-          • Y. Ding, S. Wu, <strong>Y. Chen</strong>, "ObjChangeVR: Object state change reasoning from continuous egocentric views in VR environments," in <i>Proc. EACL</i>, 2026. (20.1% acceptance rate)
+          • Y. Ding, S. Wu, <strong>Y. Chen</strong>, "ObjChangeVR: Object state change reasoning from continuous egocentric views in VR environments," in <i>Proc. EACL</i>, 2026. (20.1% acceptance rate)<br>
           • J. Liu, Y. Li, Z. Li, <strong>Y. Chen</strong>, "See no evil: Semantic context-aware privacy risk detection for AR," in <i>Proc. IEEE ICASSP</i>, 2026. <br>
-          • J. Ashik, Z. Xie, <strong>Y. Chen</strong>, C. Xu, H. Li, "Language-agnostic Speech Biomarker Exploration for Early Dementia Screening," in <i>Proc. IEEE BSN</i>, 2025. 
-          • Z. Zhang, C. Zhong, Y. Fu, <strong>Y. Chen</strong>, J. Jia, H. Li, C. Xu, "mV-IMU: mmWave-Enabled Virtual Inertia Measurement Unit for High-Fidelity Activities of Daily Living Monitoring," in <i>Proc. IEEE BSN</i>, 2025. 
-          • R Ranganath, Z Zhang, Y Fu, J Jia, <strong>Y Chen</strong>, H Li, C Xu, "Hand-Grip Strength Estimation through Bioacoustic Sensing," in <i> Proc. BSN</i>, 2025.
+          • J. Ashik, Z. Xie, <strong>Y. Chen</strong>, C. Xu, H. Li, "Language-agnostic Speech Biomarker Exploration for Early Dementia Screening," in <i>Proc. IEEE BSN</i>, 2025.<br> 
+          • Z. Zhang, C. Zhong, Y. Fu, <strong>Y. Chen</strong>, J. Jia, H. Li, C. Xu, "mV-IMU: mmWave-Enabled Virtual Inertia Measurement Unit for High-Fidelity Activities of Daily Living Monitoring," in <i>Proc. IEEE BSN</i>, 2025.<br> 
+          • R Ranganath, Z Zhang, Y Fu, J Jia, <strong>Y Chen</strong>, H Li, C Xu, "Hand-Grip Strength Estimation through Bioacoustic Sensing," in <i> Proc. BSN</i>, 2025.<br>
           • L. Duan, <strong>Y. Chen</strong>, Z. Qu, M. McGrath, E. Ehmke, M. Gorlatova, "BiGuide: A bi-level data acquisition guidance for object detection on mobile devices," in <i>Proc. ACM/IEEE IPSN</i>, May 2024. (21.5% acceptance rate)<br>
           • L. Duan, T. Scargill, <strong>Y. Chen</strong>, M. Gorlatova, "3D object detection with VI-SLAM point clouds: the impact of object and environment characteristics on model performance," in <i>Proc. IEEE ICRA</i>, May 2024.<br>
           • T. Scargill, <strong>Y. Chen</strong>, T. Hu, M. Gorlatova, "SiTAR: Situated trajectory analysis for in-the-wild pose error estimation," in <i>Proc. IEEE ISMAR</i>, Oct. 2023.<br>
