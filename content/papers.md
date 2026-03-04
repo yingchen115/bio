@@ -77,7 +77,7 @@ sections:
       title: 'Poster and Demo Presentations'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
-          • J. P. Yalla, S. Ding, M. Bhang, H. Li, <strong>Y. Chen</strong>, "Demo abstract: Understanding retail planograms through virtual reality-based shopper shelf perception analytics," in <i>Proc. IEEE INFOCOM</i>, May 2025. <a href="https://youtu.be/gD1hg1Qw9FA" target="_blank">Video of the demo</a><br>
+          • J. P. Yalla, S. Ding, M. Bhang, H. Li, <strong>Y. Chen</strong>, "Demo abstract: Understanding retail planograms through virtual reality-based shopper shelf perception analytics," in <i>Proc. ACM VRST</i>, May 2025. <a href="https://youtu.be/gD1hg1Qw9FA" target="_blank">Video of the demo</a><br>
           • S. Ding, J. P. Yalla, <strong>Y. Chen</strong>, "Demo abstract: RAG-driven 3D question answering in edge-assisted virtual reality," in <i>Proc. IEEE INFOCOM</i>, May 2025. <a href="https://www.youtube.com/watch?v=bDrN5AWmKJA" target="_blank">Video of the demo</a><br>
           • L. Zhang, M. Prather, D. Haynes, <strong>Y. Chen</strong>, Y. Li, "Saving the polar bears: A collaborative VR storytelling experience enhanced by multi-scale and multi-view WiM Designs," in <i>Proc. IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)</i>, Mar. 2025. <a href="https://ieeevr.org/2025/program/3dui-contest/#1044" target="_blank">Video of the demo</a><br>
           • T. Hu, T. Scargill, <strong>Y. Chen</strong>, G. Lan, M. Gorlatova, "DNN-based SLAM tracking error online estimation," in <i>Proc. ACM MobiCom</i>, Oct. 2023. <a href="https://sites.duke.edu/tianyihu/publications/demo/mobicom23/" target="_blank">Video of the demo</a><br>
