@@ -82,3 +82,5 @@ I'm an Assistant Professor in the [College of Information Sciences and Technolog
 I obtained my Ph.D. degree in the [Electrical and Computer Engineering Department](https://ece.duke.edu/) at [Duke University](https://duke.edu/) in May 2024, under the guidance of Prof. [Maria Gorlatova](https://maria.gorlatova.com/bio/) in the Intelligent Interactive Internet of Things Lab. I received my B.Eng. and M.S. degrees from Beijing University of Posts and Telecommunications in 2016 and 2019, respectively. 
 
 I am currently seeking motivated and creative **Ph.D. students** who are interested in my research topics.
+
+<span style="color:red;"><strong>I only contact students using my official PSU email account. If you receive any email claiming to be from me but sent from a non-PSU email address, it is a scam and may involve financial fraud.</strong></span>
