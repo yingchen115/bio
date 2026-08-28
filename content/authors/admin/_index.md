@@ -83,4 +83,4 @@ I obtained my Ph.D. degree in the [Electrical and Computer Engineering Departmen
 
 I am currently seeking motivated and creative **Ph.D. students** who are interested in my research topics.
 
-<strong><span style="color:red;">I only contact students using my official PSU email account. If you receive any email claiming to be from me but sent from a non-PSU email address, it is a scam and may involve financial fraud.</span></strong>
+<strong><span style="color:red; font-size:0.85em;">I only contact students using my official PSU email account. If you receive any email claiming to be from me but sent from a non-PSU email address, it is a scam and may involve financial fraud.</span></strong>
