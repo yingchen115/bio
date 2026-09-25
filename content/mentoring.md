@@ -16,7 +16,8 @@ sections:
           a { color: #0F52BA !important; }
         </style>
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto; line-height: 1.6;">
-          • Zhuoheng Li, IST, Penn State. Starting Fall 2025 <br>
+          • Shangrong Wu, IST, Penn State. Fall 2026 - present <br>
+          • Zhuoheng Li, IST, Penn State. Fall 2025 - present <br>
         </div>
     design:
       columns: '1'
@@ -29,7 +30,7 @@ sections:
           a { color: #0F52BA !important; }
         </style>
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto; line-height: 1.6;">
-          • Yao Li, IST, Penn State. Fall 2025 - present <br>
+          • Yao Li, IST, Penn State. Fall 2025 - Summer 2026 <br>
           • Shiyi Ding, CCSE, Kennesaw State University. Fall 2024 – Spring 2026 <br>
           • John Pranoy Yalla, CCSE, Kennesaw State University. Fall 2024 – Fall 2025 <br>
           • Owen Gibson, ECE, Duke University. Fall 2022
@@ -42,6 +43,7 @@ sections:
       title: 'Undergraduate Students'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto; line-height: 1.6;">
+          • Jessica Kathleen Gravel, IST, Penn State University. Spring 2026 – present<br>
           • Jason Flores, CCSE, Kennesaw State University. Spring 2025 – present<br>
           • Muchang Bahng, Mathematics, Duke University. Spring 2023 – Spring 2024<br>
           • Alice Hu, ECE, Duke University. Fall 2023 – Spring 2024<br>

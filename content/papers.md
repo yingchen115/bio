@@ -43,6 +43,8 @@ sections:
       title: 'Conference Proceedings'
       text: |-
         <div style="font-size: 1rem; text-align: left; width: 950px; margin: 0 auto;">
+          • Z. Li, <strong>Y. Chen</strong>, "Extended to Reality: Prompt Injection in 3D Environments," in <i>Proc. EMNLP Findings</i>, 2026.<br>
+          • Z. Li, <strong>Y. Chen</strong>, "Extended to Reality: Prompt Injection in 3D Environments," in <i>Proc. COLM</i>, 2026. (29% acceptance rate)<br>
           • Y. Ding, S. Wu, <strong>Y. Chen</strong>, "ObjChangeVR: Object state change reasoning from continuous egocentric views in VR environments," in <i>Proc. EACL</i>, 2026. (20.1% acceptance rate)<br>
           • J. Liu, Y. Li, Z. Li, <strong>Y. Chen</strong>, "See no evil: Semantic context-aware privacy risk detection for AR," in <i>Proc. IEEE ICASSP</i>, 2026. <br>
           • J. Ashik, Z. Xie, <strong>Y. Chen</strong>, C. Xu, H. Li, "Language-agnostic Speech Biomarker Exploration for Early Dementia Screening," in <i>Proc. IEEE BSN</i>, 2025.<br> 
